@@ -1,7 +1,7 @@
 
 ## Project setup
 ```
-npm install
+npm instal express netlify-lambda serverless-http
 ```
 
 ### Run
